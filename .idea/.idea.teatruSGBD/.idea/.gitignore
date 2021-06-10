@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.teatruSGBD.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Facultate\AN2SEM2\SGBD\LAB\teatruSGBD\.idea\.idea.teatruSGBD\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
